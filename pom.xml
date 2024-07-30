@@ -20,7 +20,7 @@
 			<plugin>
 				<groupId>org.sonatype.central</groupId>
 				<artifactId>central-publishing-maven-plugin</artifactId>
-				<version>0.4.0</version>
+				<version>0.5.0</version>
 				<extensions>true</extensions>
 				<configuration>
 					<publishingServerId>central</publishingServerId>
@@ -102,8 +102,8 @@
 	<developers>
 		<developer>
 			<name>Ahmethan Safa</name>
-			<email>ahmethansafa@hotmailcom</email>
-			<organization>io.github.Ahmethan1</organization>
+			<email>ahmethansafa@hotmail.com</email>
+			<organization>io.github.ahmethan1</organization>
 			<organizationUrl>https://github.com/Ahmethan1/atmosware-gyt-core/</organizationUrl>
 		</developer>
 	</developers>
